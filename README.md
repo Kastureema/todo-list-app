@@ -12,4 +12,6 @@ It lets an user do the following:
 
 It also saves the data to a local storage and keeps the data persistent even after browser close or refresh.
 
-Deployment: Deployed and setup the website using vercel
+Deployed using vercel.
+
+
